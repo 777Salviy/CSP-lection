@@ -116,6 +116,8 @@
 // newText = Replace(newText, 'и', 'i');
 // Console.WriteLine(newText);
 
+// 7. Работа с циклом в цикле.
+
 int[] arr = { 1, 5, 6, 1, 8, 7, 3, 7, 2 };
 
 void PringArray(int[] array)
